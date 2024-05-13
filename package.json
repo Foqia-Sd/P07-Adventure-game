@@ -1,0 +1,26 @@
+{
+  "name": "ss-adventure-game-project-07",
+  "version": "1.0.0",
+  "description": "my adventure game in typescript",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "ss-adventure-game-project-07": "index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "foqia siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "ss-adventure-game-project-07": "^1.0.0",
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
